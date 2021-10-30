@@ -9,7 +9,7 @@ In Diablo 2, unique monsters are stronger monsters distingushed by their golden 
 The list of unique monster name prefixes, suffixes, and appelations in Diablo 2 were found on https://diablo-archive.fandom.com/wiki/Unique_Monsters_(Diablo_II). 
 
 ## Using the script
-In order to use this script, first make sure you have some version of Python 3 installed. Then, run the script provided here in Python.
+In order to use this script, first make sure you have some version of Python 3 installed. Then, run the script provided here (diablo2UniqueMonsterNameGenerator.py) in Python.
 
 You can choose the number of unique monsters' names you want in two ways:
 1) Pass it in as a parameter when running the script.
